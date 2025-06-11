@@ -4,7 +4,7 @@ Extract audio from video files, and create trascripts using `faster_whisper`.
 
 ## Installation
 
-```python
+```bash
 poetry install
 ```
 
@@ -19,7 +19,7 @@ poetry install
 
 ### 2. Create transcripts
 
-```python
+```bash
 $ poetry run python transcribe.py
 ```
 
